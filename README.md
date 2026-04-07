@@ -4,11 +4,11 @@
 <!-- [![Paper](https://img.shields.io/badge/arXiv-Paper-red)](https://arxiv.org/abs/[insert_arxiv_if_available])   -->
 [![Code](https://img.shields.io/badge/GitHub-Code-blue)](https://github.com/dyzy41/PeftCD)
 
-Official PyTorch implementation of **PeftCD**, a novel bitemporal change detection network that utilize the VFMs fintuning methods in remote sensing change detection. The paper has been accepted at [IEEE JSTAR](https://ieeexplore.ieee.org/document/11396066)!!
+Official PyTorch implementation of **PeftCD**, a novel bitemporal change detection network that utilize the VFMs fintuning methods in remote sensing change detection. The paper has been accepted at [IEEE JSTAR](https://ieeexplore.ieee.org/document/11458815)!!
 
 ## Paper
 
-**Title:** PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection
+**Title:** [PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection](https://ieeexplore.ieee.org/document/11458815)
 
 **Authors:** Sijun Dong; Yuxuan Hu; Libo Wang; Geng Chen; Xiaoliang Meng*  
 *School of Remote Sensing and Information Engineering, Wuhan University, Wuhan, China*  
